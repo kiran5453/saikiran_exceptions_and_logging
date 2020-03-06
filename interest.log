@@ -1,0 +1,12 @@
+2020-02-25 19:29:35 INFO  App:12 - Enter the type of interest you want to find
+1.SIMPLE INTEREST
+2.COMPOUND INTEREST
+2020-02-25 19:29:41 INFO  App:26 - Enter the principal amount
+2020-02-25 19:29:44 INFO  App:28 - Enter number of times to be calculated
+2020-02-25 19:29:46 INFO  App:30 - Enter number of years
+2020-02-25 19:29:48 INFO  App:32 - Enter rate of interest
+2020-02-25 19:29:51 INFO  App:34 - Compound interest is 2636.3176
+2020-02-25 19:29:51 INFO  App:47 - This is info
+2020-02-25 19:29:51 DEBUG App:48 - This is debug
+2020-02-25 19:29:51 WARN  App:49 - This is warn
+2020-02-25 19:29:51 ERROR App:50 - This is error
